@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lenablechmann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and OOP
-- 💞️ I’m looking to collaborate on an open source project, could be in Javascript (incl CSS/SASS, HTML and maybe even  REACT), C, Java
+- 👀 I’m interested in React and Frontend
+- 🌱 I’m currently learning Java (mostly oop and algos). but also React
+- 💞️ I’m looking to collaborate on an open source project, could be in Javascript (incl CSS/SASS, HTML and ofc REACT), C, Java
 - 📫 How to reach me linkedin.com/in/lena-blechmann-158672240
 
 <!---
